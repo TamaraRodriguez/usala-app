@@ -1,0 +1,52 @@
+.btn-usala {
+    background-color: #EA1F54;
+    color: #FFFFFF;
+}
+
+.logo{
+    width: 100px;
+    height: 60px;
+}
+
+.navbar {
+    padding: 0;
+    background: white;
+}
+
+i {
+    font-size: 1.7em;
+}
+
+.navbar-nav {
+    width: 100%;
+    background: none;
+    flex-wrap: nowrap;
+}
+
+.nav-item {
+    flex: 1;
+    padding: 0;
+}
+
+.nav-link {
+    background-color: none;
+    text-align: center;
+}
+
+.menu-lat{
+    color: #FFFFFF !important;
+}
+
+.menu-lat:active{
+    color: #EA1F54;
+}
+
+.navbg{
+    background-color: #051A26;
+    color: #FFFFFF;
+}
+
+.card-columns {
+    column-count: 1;
+}
+
