@@ -17,7 +17,7 @@
         </nav>
         <div class="mb-3 mt-3">
             <div class="row g-0 card mt-3 list-group-horizontal">
-                <router-link class="text-decoration-none text-black d-inline-flex" to="/login">
+                <router-link class="text-decoration-none text-black" to="/login">
                     <div class="col-md-4">
                         <img src="https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120_960_720.jpg" class="img-fluid rounded-start" alt="">
                     </div>
@@ -42,7 +42,7 @@
                 </router-link>
             </div>
             <div class="row g-0 card mt-3 list-group-horizontal">
-                <router-link class="text-decoration-none text-black d-inline-flex" to="/login">
+                <router-link class="text-decoration-none text-black" to="/login">
                     <div class="col-md-4">
                         <img src="https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120_960_720.jpg" class="img-fluid rounded-start" alt="">
                     </div>
@@ -67,7 +67,7 @@
                 </router-link>
             </div>
             <div class="row g-0 card mt-3 list-group-horizontal">
-                <router-link class="text-decoration-none text-black d-inline-flex" to="/login">
+                <router-link class="text-decoration-none text-black" to="/login">
                     <div class="col-md-4">
                         <img src="https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120_960_720.jpg" class="img-fluid rounded-start" alt="">
                     </div>
