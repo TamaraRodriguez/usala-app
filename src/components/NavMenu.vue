@@ -26,7 +26,10 @@
                             </li>
                             <li class="nav-item">
                                 <router-link class="nav-link menu-lat" to="/registro">Registrar Sala</router-link>
-                            </li>                            
+                            </li>
+                            <li class="nav-item">
+                                <router-link class="nav-link menu-lat" to="/registro">Registro User</router-link>
+                            </li>                                 
                         </ul>
                     </div>
                 </nav>

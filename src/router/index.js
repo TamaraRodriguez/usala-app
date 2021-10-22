@@ -3,6 +3,7 @@ import Home from '../views/Home.vue'
 import Login from '../views/auth/Login.vue'
 import Registro from '../views/auth/Registro.vue'
 import Listado from '../views/Listado.vue'
+import RegistroUser from '../views/auth/RegistroUser.vue'
 
 const routes = [
   {
@@ -19,6 +20,11 @@ const routes = [
     path: '/registro',
     name: 'Registro',
     component: Registro
+  },
+  {
+    path: '/registrouser',
+    name: 'RegistroUser',
+    component: RegistroUser
   },
   {
     path: '/listado',
