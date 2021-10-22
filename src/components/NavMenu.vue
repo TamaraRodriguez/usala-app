@@ -28,7 +28,7 @@
                                 <router-link class="nav-link menu-lat" to="/registro">Registrar Sala</router-link>
                             </li>
                             <li class="nav-item">
-                                <router-link class="nav-link menu-lat" to="/registro">Registro User</router-link>
+                                <router-link class="nav-link menu-lat" to="/registrouser">Registro User</router-link>
                             </li>                                 
                         </ul>
                     </div>
@@ -43,11 +43,11 @@
                     <router-link class="nav-link" to="/"><i class="bi bi-house"></i></router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link class="nav-link" to="/favoritos "><i class="bi bi-heart"></i></router-link>
+                    <router-link class="nav-link" to="/listado"><i class="bi bi-heart"></i></router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link class="nav-link" to="/registro"><i class="bi bi-search"></i></router-link>
-                </li>
+                    <router-link class="nav-link" to="/registro"><i class="bi bi-calendar4-week"></i></router-link>
+                </li> <!--<i class="bi bi-search"></i>-->
                 <li class="nav-item">
                     <router-link class="nav-link" to="/login"><i class="bi bi-person"></i></router-link>
                 </li>

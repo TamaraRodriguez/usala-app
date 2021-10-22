@@ -50,3 +50,9 @@ i {
     column-count: 1;
 }
 
+.puntuacion{
+    background-color: #051A26;
+    border-radius: 0.5rem;
+    border-color: #051A26;
+    color: white;
+}
